@@ -1,0 +1,81 @@
+10 10
+WilczeJagody
+3 0 0 99 3 false 
+Zolw
+5 0 1 2 9 false 
+Guarana
+8 0 0 0 5 false 
+Czlowiek
+1 1 4 19 9 false 2 0
+WilczeJagody
+3 1 0 99 7 false 
+WilczeJagody
+4 1 0 99 6 false 
+Guarana
+6 1 0 0 1 false 
+Guarana
+7 1 0 0 4 false 
+Guarana
+8 1 0 0 9 false 
+WilczeJagody
+3 2 0 99 9 false 
+BarszczSosnowskiego
+4 3 0 10 2 false 
+BarszczSosnowskiego
+5 3 0 10 1 false 
+BarszczSosnowskiego
+3 4 0 10 0 false 
+BarszczSosnowskiego
+4 4 0 10 9 false 
+BarszczSosnowskiego
+3 5 0 10 3 false 
+BarszczSosnowskiego
+4 5 0 10 5 false 
+Wilk
+7 5 5 9 0 false 
+Wilk
+8 5 5 9 1 false 
+Wilk
+9 5 5 9 0 false 
+Wilk
+5 6 5 9 9 false 
+Antylopa
+6 6 4 4 9 false 
+Wilk
+7 6 5 9 1 false 
+Wilk
+8 6 5 9 3 false 
+Wilk
+9 6 5 9 6 false 
+Wilk
+5 7 5 9 0 false 
+Wilk
+6 7 5 9 3 false 
+Wilk
+7 7 5 9 7 false 
+Wilk
+8 7 5 9 2 false 
+Wilk
+9 7 5 9 7 false 
+Wilk
+5 8 5 9 6 false 
+Wilk
+6 8 5 9 2 false 
+Wilk
+7 8 5 9 7 false 
+Wilk
+8 8 5 9 4 false 
+Wilk
+9 8 5 9 7 false 
+Owca
+2 9 4 4 9 false 
+Wilk
+3 9 5 9 3 false 
+Wilk
+4 9 5 9 3 false 
+Wilk
+6 9 5 9 7 false 
+Wilk
+8 9 5 9 0 false 
+Wilk
+9 9 5 9 9 false 
